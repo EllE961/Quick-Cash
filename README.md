@@ -1,7 +1,7 @@
 # Quick Cash
 
 Quick Cash is a mobile application designed to connect job seekers with employers in a streamlined and user-friendly manner. Developed using **Android Studio** and **Java**, this app makes it easy to find jobs or hire employees on the go. The project was developed as part of a university course in a collaborative group setting.
-
+                                 
 ## Features
 
 - **Job Seekers:**
